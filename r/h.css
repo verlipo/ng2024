@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://img.freepik.com/premium-photo/christmas-background-with-christmas-tree-decorated-colorful-christmas-decorations_147376-1119.jpg?w=996);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: red;
+    
+}
+
+.box{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    border: 2px solid yellow;
+    width: 200px;
+    height: 150px;
+    background: yellow;
+}
+.size{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid red;
+    width: 200px;
+    height: 50px;
+    background: red;
+   
+}
+
+.size{
+    transform-origin: right;
+    transform: rotate(90deg);
+}
